@@ -1,0 +1,22 @@
+GUI and Command Line
+
+Learning command line interface after using graphical user interface
+for so long requires a whole new way of navigating the computer system.
+GUI is obviously a more visual method with icons to guide you through 
+the system whereas CLI is not visual at all. You cannot simply use a mouse
+to click here and there, or stumble through CLI like you can in GUI; you 
+really need to know your commands (entered on a keyboard) and how to use them 
+otherwise you will get nowhere. Or possibly even mess up your system in a 
+way that isn't possible in GUI. In CLI, folders are called directories. We 
+navigate through the system in CLI but browse the system in GUI. Files in
+GUI are saved with file extensions; however, extensions are not necessary
+when using CLI.
+
+As a visual learner, and perhaps simply because I have only used GUI on
+a computer, I find CLI very challenging to use. Fun, but challenging. 
+Memorizing commands and what they do is a lot of information to absorb,
+but even beyond that, just getting my brain to interact with the computer
+system in a completely different manner is like relearning how to ride
+a bike with your eyes closed. With that being said, I am quite looking
+forward to becoming proficient using CLI so that I can be more 
+savvy in my understanding and utilization of code. 
