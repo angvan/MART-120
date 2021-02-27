@@ -1,0 +1,57 @@
+body {
+  background-color: teal;
+}
+
+p:first-letter {
+  font-size: 200%;
+}
+p {
+  font-family: cursive;
+  font-weight: normal;
+}
+h3 {
+  color: pink;
+  font-style: italic;
+  font-family: serif;
+  font-size: 25px;
+  text-shadow: 2px 2px 7px #000000;
+}
+
+#top a {
+  color: black;
+}
+
+#top a:hover {
+  color: blue;
+  font-style: italic;
+}
+
+#orange {
+  font-weight: bolder;
+}
+
+#info {
+  font-size: 150%;
+  font-weight: 400;
+}
+
+.author a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.author a:hover {
+  color: yellow;
+  text-decoration: underline;
+  font-style: oblique;
+}
+
+.intro:first-letter {
+  font-size: 300%;
+  font-style: italic;
+}
+
+.main {
+  line-height: .9em;
+}
