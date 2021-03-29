@@ -32,8 +32,8 @@ function setup()
     shapeXSpeed = Math.floor(Math.random() * (Math.floor(Math.random() * 15)) + 5);
     shapeYSpeed = Math.floor(Math.random() * (Math.floor(Math.random() * 1)) + 1);
 
-    shapebXSpeed = Math.floor(Math.random() * (Math.floor(Math.random() * 1)) + 1);
-    shapebYSpeed = Math.floor(Math.random() * (Math.floor(Math.random() * 1)) + 1);
+    shapebXSpeed = Math.floor(Math.random() * (Math.floor(Math.random() * 5)) + 1);
+    shapebYSpeed = Math.floor(Math.random() * (Math.floor(Math.random() * 5)) + 5);
 }
 
 function draw()
@@ -93,9 +93,6 @@ function draw()
     // move the shape
     shapeX += shapeXSpeed;
     shapeY += shapeYSpeed;
-
-    shapebX += shapebXSpeed;
-    shapebY += shapebYSpeed;
 
     // check to see if the shape has gone out of bounds
     if(shapeX > width)
